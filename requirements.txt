@@ -1,0 +1,16 @@
+torch
+transformers
+tqdm
+scikit-learn
+pandas
+numpy
+nltk
+nlp-id
+Sastrawi
+tensorflow
+plotly
+matplotlib
+seaborn
+Pillow
+wordcloud
+tweet-preprocessor
