@@ -1,7 +1,5 @@
 **Satria Data 2024 - Klasifikasi Teks Multi Kelas dalam Tweet untuk Pemilihan Presiden Indonesia 2024**
 
----
-
 <!-- <img src="https://satriadata.kemdikbud.go.id/wp-content/uploads/2024/05/logo-24.png" alt="SATRIA DATA 2024" width="300"/> -->
 
 ---
